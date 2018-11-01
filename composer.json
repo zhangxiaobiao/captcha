@@ -1,0 +1,19 @@
+{
+    "name": "zhangshibiao/captcha",
+    "description": "验证码",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "张世彪",
+            "email": "645702352@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"Zhangshibiao\\": "src/"
+		}
+	}
+}
